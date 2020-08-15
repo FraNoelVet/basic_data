@@ -1,0 +1,102 @@
+"";"departement";"num_dptt";"region";"superf_dptt";"population"
+"1";"Ain";"01";"Auvergne-Rhône-Alpes";5762;656955
+"2";"Aisne";"02";"Hauts-de-France";7369;526050
+"3";"Allier";"03";"Auvergne-Rhône-Alpes";7340;331315
+"4";"Alpes-de-Haute-Provence";"04";"Provence-Alpes-Côte d'Azur";6925;165197
+"5";"Alpes-Maritimes";"06";"Provence-Alpes-Côte d'Azur";4299;1079396
+"6";"Ardèche";"07";"Auvergne-Rhône-Alpes";5529;326875
+"7";"Ardennes";"08";"Grand Est";5229;265531
+"8";"Ariège";"09";"Occitanie";4890;152398
+"9";"Aube";"10";"Grand Est";6004;309907
+"10";"Aude";"11";"Occitanie";6139;372705
+"11";"Aveyron";"12";"Occitanie";8735;278360
+"12";"Bas-Rhin";"67";"Grand Est";4755;1132607
+"13";"Bouches-du-Rhône";"13";"Provence-Alpes-Côte d'Azur";5088;2034469
+"14";"Calvados";"14";"Normandie";5548;691453
+"15";"Cantal";"15";"Auvergne-Rhône-Alpes";5726;142811
+"16";"Charente-Maritime";"17";"Nouvelle-Aquitaine";6864;647080
+"17";"Charente";"16";"Nouvelle-Aquitaine";5956;348180
+"18";"Cher";"18";"Centre-Val de Loire";7235;296404
+"19";"Corrèze";"19";"Nouvelle-Aquitaine";5857;240336
+"20";"Corse-du-Sud";"2A";"Corse";4014;162421
+"21";"Côte-d'Or";"21";"Bourgogne-Franche-Comté";8763;532886
+"22";"Côtes-d'Armor";"22";"Bretagne";6878;596186
+"23";"Creuse";"23";"Nouvelle-Aquitaine";5565;116270
+"24";"Deux-Sèvres";"79";"Nouvelle-Aquitaine";5999;372627
+"25";"Dordogne";"24";"Nouvelle-Aquitaine";9060;408393
+"26";"Doubs";"25";"Bourgogne-Franche-Comté";5233;539449
+"27";"Drôme";"26";"Auvergne-Rhône-Alpes";6530;520560
+"28";"Essonne";"91";"Île-de-France";1804;1319401
+"29";"Eure-et-Loir";"28";"Centre-Val de Loire";5880;429425
+"30";"Eure";"27";"Normandie";6040;600687
+"31";"Finistère";"29";"Bretagne";6733;906554
+"32";"Gard";"30";"Occitanie";5853;748468
+"33";"Gers";"32";"Occitanie";6257;190040
+"34";"Gironde";"33";"Nouvelle-Aquitaine";9976;1633440
+"35";"Guadeloupe";"971";"Guadeloupe";1628;376879
+"36";"Guyane";"973";"Guyane";83534;290691
+"37";"Haut-Rhin";"68";"Grand Est";3525;763204
+"38";"Haute-Corse";"2B";"Corse";4666;182258
+"39";"Haute-Garonne";"31";"Occitanie";6309;1400935
+"40";"Haute-Loire";"43";"Auvergne-Rhône-Alpes";4977;226901
+"41";"Haute-Marne";"52";"Grand Est";6211;169250
+"42";"Haute-Saône";"70";"Bourgogne-Franche-Comté";5360;233194
+"43";"Haute-Savoie";"74";"Auvergne-Rhône-Alpes";4388;828405
+"44";"Haute-Vienne";"87";"Nouvelle-Aquitaine";5520;370774
+"45";"Hautes-Alpes";"05";"Provence-Alpes-Côte d'Azur";5549;141756
+"46";"Hautes-Pyrénées";"65";"Occitanie";4464;226839
+"47";"Hauts-de-Seine";"92";"Île-de-France";176;1613762
+"48";"Hérault";"34";"Occitanie";6101;1176145
+"49";"Ille-et-Vilaine";"35";"Bretagne";6775;1082073
+"50";"Indre-et-Loire";"37";"Centre-Val de Loire";6127;605380
+"51";"Indre";"36";"Centre-Val de Loire";6791;217139
+"52";"Isère";"38";"Auvergne-Rhône-Alpes";7432;1264979
+"53";"Jura";"39";"Bourgogne-Franche-Comté";4999;257849
+"54";"La Réunion";"974";"La Réunion";2504;859959
+"55";"Landes";"40";"Nouvelle-Aquitaine";9243;411979
+"56";"Loir-et-Cher";"41";"Centre-Val de Loire";6343;327835
+"57";"Loire-Atlantique";"44";"Pays de la Loire";6809;1437137
+"58";"Loire";"42";"Auvergne-Rhône-Alpes";4781;764737
+"59";"Loiret";"45";"Centre-Val de Loire";6775;682890
+"60";"Lot-et-Garonne";"47";"Nouvelle-Aquitaine";5361;330336
+"61";"Lot";"46";"Occitanie";5217;173166
+"62";"Lozère";"48";"Occitanie";5167;76286
+"63";"Maine-et-Loire";"49";"Pays de la Loire";7172;815881
+"64";"Manche";"50";"Normandie";5938;490669
+"65";"Marne";"51";"Grand Est";8162;563823
+"66";"Martinique";"972";"Martinique";1128;358749
+"67";"Mayenne";"53";"Pays de la Loire";5175;305365
+"68";"Mayotte";"976";"Mayotte";376;279471
+"69";"Meurthe-et-Moselle";"54";"Grand Est";5246;730398
+"70";"Meuse";"55";"Grand Est";6211;181641
+"71";"Morbihan";"56";"Bretagne";6823;755566
+"72";"Moselle";"57";"Grand Est";6216;1035866
+"73";"Nièvre";"58";"Bourgogne-Franche-Comté";6817;199596
+"74";"Nord";"59";"Hauts-de-France";5743;2588988
+"75";"Oise";"60";"Hauts-de-France";5860;825077
+"76";"Orne";"61";"Normandie";6103;276903
+"77";"Paris";"75";"Île-de-France";105;2148271
+"78";"Pas-de-Calais";"62";"Hauts-de-France";6671;1452778
+"79";"Puy-de-Dôme";"63";"Auvergne-Rhône-Alpes";7970;660240
+"80";"Pyrénées-Atlantiques";"64";"Nouvelle-Aquitaine";7645;683169
+"81";"Pyrénées-Orientales";"66";"Occitanie";4116;479000
+"82";"Rhône";"69";"Auvergne-Rhône-Alpes";3249;1876051
+"83";"Saône-et-Loire";"71";"Bourgogne-Franche-Comté";8575;547824
+"84";"Sarthe";"72";"Pays de la Loire";6206;560227
+"85";"Savoie";"73";"Auvergne-Rhône-Alpes";6028;432548
+"86";"Seine-et-Marne";"77";"Île-de-France";5915;1423607
+"87";"Seine-Maritime";"76";"Normandie";6278;1243788
+"88";"Seine-Saint-Denis";"93";"Île-de-France";236;1670149
+"89";"Somme";"80";"Hauts-de-France";6170;569769
+"90";"Tarn-et-Garonne";"82";"Occitanie";3718;262618
+"91";"Tarn";"81";"Occitanie";5758;387898
+"92";"Territoire de Belfort";"90";"Bourgogne-Franche-Comté";609;140145
+"93";"Val-d'Oise";"95";"Île-de-France";1246;1248354
+"94";"Val-de-Marne";"94";"Île-de-France";245;1406041
+"95";"Var";"83";"Provence-Alpes-Côte d'Azur";5973;1073836
+"96";"Vaucluse";"84";"Provence-Alpes-Côte d'Azur";3567;560997
+"97";"Vendée";"85";"Pays de la Loire";6720;683187
+"98";"Vienne";"86";"Nouvelle-Aquitaine";6990;437398
+"99";"Vosges";"88";"Grand Est";5874;359520
+"100";"Yonne";"89";"Bourgogne-Franche-Comté";7427;332096
+"101";"Yvelines";"78";"Île-de-France";2284;1448625
